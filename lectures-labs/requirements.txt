@@ -1,0 +1,14 @@
+numpy
+scipy
+scikit-learn
+jupyter
+matplotlib
+pandas
+h5py
+pillow
+scikit-image
+lxml
+tensorflow>=2.0.0
+opencv-python
+gast==0.2.2
+setuptools>=41.0.0
